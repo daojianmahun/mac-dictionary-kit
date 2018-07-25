@@ -6,6 +6,8 @@ Dictionary conversion tool for Mac OS X 10.5 and above.
 
 Download it from [GitHub releases, v2.1](https://github.com/jjgod/mac-dictionary-kit/releases/download/v2.1/DictUnifier-2.1.zip).
 
+## Dictionary download 
+http://download.huzheng.org/zh_CN/
 ## Build instructions
 
 Install static build of glib before trying to build:
